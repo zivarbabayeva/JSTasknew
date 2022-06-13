@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.output {
+    font-weight:bold;
+  }
+  #payment {
+    text-decoration:underline;
+  }
+  #graph {
+    border:solid black 1px;
+  }
+  th, td {
+    vertical-align: top;
+  }
+  .container{
+      background-image: url(/img/bank-credit-loan-payment-flat-vector-25107502.webp);
+     width: 250rem;
+     height: 150rem;
+     background-repeat: no-repeat;
+     line-height: 3;
+  }
